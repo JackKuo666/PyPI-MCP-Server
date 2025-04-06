@@ -1,4 +1,5 @@
 # PyPI MCP Server
+[![smithery badge](https://smithery.ai/badge/@JackKuo666/pypi-mcp-server)](https://smithery.ai/server/@JackKuo666/pypi-mcp-server)
 
 🔍 Enabling AI assistants to search and access PyPI package information through a simple MCP interface.
 
@@ -20,6 +21,14 @@ PyPI MCP Server provides a bridge to the PyPI package repository for AI assistan
 - BeautifulSoup4
 - mcp-python-sdk
 - typing-extensions
+
+### Installing via Smithery
+
+To install pypi-mcp-server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@JackKuo666/pypi-mcp-server):
+
+```bash
+npx -y @smithery/cli install @JackKuo666/pypi-mcp-server --client claude
+```
 
 ### Installation
 
