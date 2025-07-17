@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jackkuo666-pypi-mcp-server-badge.png)](https://mseep.ai/app/jackkuo666-pypi-mcp-server)
+
 # PyPI MCP Server
 
 🔍 Enabling AI assistants to search and access PyPI package information through a simple MCP interface.
